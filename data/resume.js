@@ -1,104 +1,103 @@
 module.exports = {
-  name: "Kaijun Chen",
-  intro: "I'm Kaijun, i gonna use Markdown here, but it's haven't been implemented yet.",
+  name: "Eduardo 'Red' Prado ",
+  intro: "Biomedical Engineer, iOS Developerm fulltime Geek, Melomaniac, drummer, Sound & hardware hacker",
   contact: [
     {
       title: "Call",
-      content: "+4917888888888"
+      content: "+553335038553"
     },
     {
       title: "Mail",
-      content: "kaijun.cn@gmail.com"
+      content: "eduardo.pradoruiz@gmail.com"
     },
     {
       title: "Web",
-      content: "http://kaijun.rocks",
-      url: "http://kaijun.rocks"
+      content: "PikaTotoro",
+      url: "https://www.facebook.com/T2ac32"
     },
     {
       title: "Home",
-      content: "Fritz-Löffler-Straße. 12/A585, 01069, Dresden, Sachsen, Germany",
+      content: "Zapopan, Jalisco, México",
     },
   ],
   social: [
-
+    {
+      name: "Github",
+      username: "t2ac32",
+      url: "https://github.com/t2ac32"
+    },
     {
       name: "facebook",
-      username: "kaijun",
-      url: "https://www.facebook.com/demonbane.cn"
+      username: "Red Prado",
+      url: "https://www.facebook.com/T2ac32"
     },
     {
       name: "twitter",
-      username: "Demonbane_x",
-      url: "https://twitter.com/Demonbane_x"
+      username: "Tracermusic",
+      url: "https://twitter.com/TracerMusic"
     },
     {
       name: "instagram",
-      username: "kaijun.cn",
-      url: "https://www.instagram.com/kaijun.cn/"
-    },
-    {
-      name: "weibo",
-      username: "Demonbane",
-      url: "http://weibo.com/1656320160/profile?topnav=1&wvr=6"
+      username: "T2AC32",
+      url: "https://www.instagram.com/t2ac32/"
     },
   ],
   experiences: [
     {
-      company: "Google Inc.",
-      period: "Nov 2016 - Present",
-      title: "Frontend Engineer",
-      desc: "It's a looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooog text!"
+      company: "CID Medical Imaging Center",
+      period: "Jun 2014 - January 2016",
+      title: "Biomedical engineer Department Chief",
+      desc: "Description"
     },
     {
-      company: "TU Dresden",
-      period: "Nov 2013 - Nov 2015",
-      title: "Student Assistance",
-      desc: "I'm proud that i worked as a Student Assistance!"
+      company: "AMPLEMIND Technology Agency",
+      period: "Jan 2016 - Present",
+      title: "iOS Dev",
+      desc: "iOS/OSX Developer"
     }
   ],
   projects: [
     {
-      title: "CV-Generator",
-      desc: "An elegant CV/Resume template generator loading from config file. Ideal CV/Resume template for Github Pages.",
-      url: "https://github.com/kaijun/cv-generator/"
+      title: "Expansion",
+      desc: "News Feed iOS mobile app for grupo Expansion .",
+      url: "https://itunes.apple.com/ve/app/expansion-mx/id332010537?mt=8"
     },
     {
-      title: "Example Project",
-      desc: "It's an Example Project. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non tellus sed nisl maximus facilisis ac fringilla tellus. Phasellus tristique magna ac mauris finibus faucibus. Praesent ornare eros non finibus fringilla. Donec eu est sollicitudin, efficitur lacus sodales, ornare ligula. Nam facilisis ultrices posuere. Nam eget sollicitudin dui. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas dui eros, egestas id diam id, consectetur facilisis quam. Phasellus facilisis viverra sem, ut varius enim tincidunt ac.",
-      url: "http://example.com"
+      title: "CID Nuclear Medicine",
+      desc: "Planification and installation of a GE Nuclear Medicine Scanner",
+      url: ""
     }
   ],
   educations: [
     {
-      major: "Network Engineering",
+      major: "Bachelor of Science in Biomedical Engineering",
       degree: "Bachelor",
-      college: "Xidian University",
-      period: "Sep 2008 - Jul 2012",
+      college: "Instituto Tecnológico de Monterrey",
+      period: "2009 - 2013",
     },
     {
-      major: "Informatik",
-      degree: "Master",
-      college: "TU Dresden",
-      period: "Oct 2013 - Sep 2016",
+      major: "",
+      degree: "",
+      college: "",
+      period: "",
     }
   ],
   skills:[
     {
-      name: "JavaScript",
+      name: "Swift",
       score: 9
+    },
+    {
+      name: "Objective-c",
+      score: 8
+    },
+    {
+      name: "Java",
+      score: 6
     },
     {
       name: "HTML",
       score: 6
-    },
-    {
-      name: "NodeJS",
-      score: 9
-    },
-    {
-      name: "CSS",
-      score: 8
     },
     {
       name: "Android",
